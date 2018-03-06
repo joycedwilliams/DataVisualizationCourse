@@ -1,0 +1,2 @@
+# DataVisualizationCourse
+Projects from class
